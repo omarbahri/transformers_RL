@@ -18,4 +18,4 @@ I have used code from https://github.com/kzl/decision-transformer/tree/master/gy
 5. Generate pendulum-medium using pytorch-sac-main/generate_trained_pendulum.py.
 6. Convert datasets to D4RL format using scripts/convert_d4rl_dataset.py
 7. Train decision transformer using decision-transformer/gym/experiment.py.
-8. Evaluate trained models using evaluate_dt.
+8. Evaluate trained models using decision-transformer/gym/evaluate_dt.
