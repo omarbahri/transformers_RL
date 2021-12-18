@@ -1,0 +1,141 @@
+nohup: ignoring input
+state_mean: [0.6026695  0.02663698 0.0245216 ]
+state_std: [0.6832792 0.4120112 2.3226416]
+==================================================
+Starting new experiment: pendulum medium_5000
+5000 trajectories, 1000000 timesteps found
+Average return: -382.91, std: 472.05
+Max return: -1.03, min: -1835.99
+==================================================
+train_iteration
+/home/omar/anaconda3/envs/decision-transformer-gym/lib/python3.8/site-packages/torch/autograd/__init__.py:154: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 10010). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at  /opt/conda/conda-bld/pytorch_1634272128894/work/c10/cuda/CUDAFunctions.cpp:112.)
+  Variable._execution_engine.run_backward(
+================================================================================
+Iteration 1
+time/training: 3131.165013074875
+evaluation/target_0_return_mean: -1179.9352565845352
+evaluation/target_0_return_std: 448.59621898340856
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 3246.3005945682526
+time/evaluation: 115.13409566879272
+training/train_loss_mean: 0.16989245157465338
+training/train_loss_std: 0.04717384772781809
+training/action_error: 0.1272815614938736
+train_iteration
+================================================================================
+Iteration 2
+time/training: 2020.0811071395874
+evaluation/target_0_return_mean: -911.4751443263865
+evaluation/target_0_return_std: 464.32279051951406
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 5381.215704202652
+time/evaluation: 114.8268096446991
+training/train_loss_mean: 0.15406652624085546
+training/train_loss_std: 0.019053279824230544
+training/action_error: 0.15781089663505554
+train_iteration
+================================================================================
+Iteration 3
+time/training: 1994.3003730773926
+evaluation/target_0_return_mean: -685.8557012429814
+evaluation/target_0_return_std: 443.44189339812146
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 7490.254758119583
+time/evaluation: 114.731436252594
+training/train_loss_mean: 0.15178379049524665
+training/train_loss_std: 0.018803370046709948
+training/action_error: 0.15164539217948914
+train_iteration
+================================================================================
+Iteration 4
+time/training: 2022.036370754242
+evaluation/target_0_return_mean: -996.6236979448024
+evaluation/target_0_return_std: 506.35574351053646
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 9624.986253023148
+time/evaluation: 112.6882016658783
+training/train_loss_mean: 0.15031608117073775
+training/train_loss_std: 0.018379566484093654
+training/action_error: 0.12883955240249634
+train_iteration
+================================================================================
+Iteration 5
+time/training: 2016.9758503437042
+evaluation/target_0_return_mean: -839.806536439291
+evaluation/target_0_return_std: 506.9686762448161
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 11755.303687810898
+time/evaluation: 113.33349108695984
+training/train_loss_mean: 0.14933729829341172
+training/train_loss_std: 0.018686339916249507
+training/action_error: 0.16452594101428986
+train_iteration
+================================================================================
+Iteration 6
+time/training: 2013.8395025730133
+evaluation/target_0_return_mean: -833.4435628444882
+evaluation/target_0_return_std: 521.7737263426078
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 13886.882091760635
+time/evaluation: 117.7332375049591
+training/train_loss_mean: 0.1488173111639917
+training/train_loss_std: 0.018401427733324024
+training/action_error: 0.14666268229484558
+train_iteration
+================================================================================
+Iteration 7
+time/training: 1667.6032044887543
+evaluation/target_0_return_mean: -1020.113313217938
+evaluation/target_0_return_std: 427.0945044432378
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 15615.10419178009
+time/evaluation: 60.610626220703125
+training/train_loss_mean: 0.14851142107993365
+training/train_loss_std: 0.018335870184013444
+training/action_error: 0.16480383276939392
+train_iteration
+================================================================================
+Iteration 8
+time/training: 1077.2744681835175
+evaluation/target_0_return_mean: -1136.734715907424
+evaluation/target_0_return_std: 379.37788841462066
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 16752.830087423325
+time/evaluation: 60.44963097572327
+training/train_loss_mean: 0.14804641251266001
+training/train_loss_std: 0.018219094382826033
+training/action_error: 0.15664082765579224
+train_iteration
+================================================================================
+Iteration 9
+time/training: 1075.3094055652618
+evaluation/target_0_return_mean: -1173.6152661772962
+evaluation/target_0_return_std: 400.42713467312626
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 17888.544162988663
+time/evaluation: 60.40283918380737
+training/train_loss_mean: 0.14746691537946463
+training/train_loss_std: 0.018180064339446304
+training/action_error: 0.14952681958675385
+train_iteration
+================================================================================
+Iteration 10
+time/training: 1077.6732439994812
+evaluation/target_0_return_mean: -1102.1603638312654
+evaluation/target_0_return_std: 408.3072625680475
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 19026.76850938797
+time/evaluation: 60.549158573150635
+training/train_loss_mean: 0.14708396381810307
+training/train_loss_std: 0.01795810144005065
+training/action_error: 0.14163872599601746

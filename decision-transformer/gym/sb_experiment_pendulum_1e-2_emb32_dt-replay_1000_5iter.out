@@ -1,0 +1,76 @@
+nohup: ignoring input
+state_mean: [ 0.8124825   0.08462816 -0.01141869]
+state_std: [0.4824354  0.31660303 1.5608662 ]
+==================================================
+Starting new experiment: pendulum medium-replay_1000
+1000 trajectories, 200000 timesteps found
+Average return: -170.86, std: 171.82
+Max return: -1.49, min: -1880.17
+==================================================
+train_iteration
+/home/omar/anaconda3/envs/decision-transformer-gym/lib/python3.8/site-packages/torch/autograd/__init__.py:154: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 10010). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at  /opt/conda/conda-bld/pytorch_1634272128894/work/c10/cuda/CUDAFunctions.cpp:112.)
+  Variable._execution_engine.run_backward(
+================================================================================
+Iteration 1
+time/training: 773.7162311077118
+evaluation/target_0_return_mean: -1149.5045884844167
+evaluation/target_0_return_std: 232.11120032116494
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 832.7272639274597
+time/evaluation: 59.01099467277527
+training/train_loss_mean: 0.16589011884331703
+training/train_loss_std: 0.03915344315990122
+training/action_error: 0.13484884798526764
+train_iteration
+================================================================================
+Iteration 2
+time/training: 828.1779029369354
+evaluation/target_0_return_mean: -1019.6483840636931
+evaluation/target_0_return_std: 333.87027164275725
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 1719.9691367149353
+time/evaluation: 59.06219482421875
+training/train_loss_mean: 0.1468507059916854
+training/train_loss_std: 0.009472326410832656
+training/action_error: 0.14304278790950775
+train_iteration
+================================================================================
+Iteration 3
+time/training: 776.4437999725342
+evaluation/target_0_return_mean: -1113.3054230585535
+evaluation/target_0_return_std: 391.95223251336535
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 2552.808254003525
+time/evaluation: 56.3933789730072
+training/train_loss_mean: 0.14420851659551262
+training/train_loss_std: 0.00929386603903331
+training/action_error: 0.14338549971580505
+train_iteration
+================================================================================
+Iteration 4
+time/training: 840.9435441493988
+evaluation/target_0_return_mean: -1072.0625897747427
+evaluation/target_0_return_std: 339.0274973474979
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 3498.3950436115265
+time/evaluation: 104.64143586158752
+training/train_loss_mean: 0.1427552355706692
+training/train_loss_std: 0.009298576493890397
+training/action_error: 0.12919723987579346
+train_iteration
+================================================================================
+Iteration 5
+time/training: 1541.9810709953308
+evaluation/target_0_return_mean: -1076.7855902583244
+evaluation/target_0_return_std: 316.82180901782823
+evaluation/target_0_length_mean: 200.0
+evaluation/target_0_length_std: 0.0
+time/total: 5163.919074773788
+time/evaluation: 123.53729796409607
+training/train_loss_mean: 0.1419444536268711
+training/train_loss_std: 0.009004908481726307
+training/action_error: 0.13147306442260742

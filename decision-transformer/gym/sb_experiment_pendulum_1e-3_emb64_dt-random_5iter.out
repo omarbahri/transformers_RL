@@ -1,0 +1,12 @@
+nohup: ignoring input
+state_mean: [0.8361047  0.08713459 0.02611632]
+state_std: [0.45545506 0.31927997 1.412226  ]
+==================================================
+Starting new experiment: pendulum medium_200000
+10000 trajectories, 2000000 timesteps found
+Average return: -150.32, std: 79.61
+Max return: -3.13, min: -383.69
+==================================================
+train_iteration
+/home/omar/anaconda3/envs/decision-transformer-gym/lib/python3.8/site-packages/torch/autograd/__init__.py:154: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 10010). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at  /opt/conda/conda-bld/pytorch_1634272128894/work/c10/cuda/CUDAFunctions.cpp:112.)
+  Variable._execution_engine.run_backward(
